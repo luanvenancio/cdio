@@ -6835,6 +6835,7 @@ send@0.18.0:
 serialize-javascript@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-4.0.0.tgz"
+
   dependencies:
     randombytes "^2.1.0"
 
